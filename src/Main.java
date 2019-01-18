@@ -7,5 +7,6 @@ public class Main {
         System.out.println("feature");
         System.out.println("reset to this one");
         System.out.println("one text too far");
+        System.out.println("master1");
     }
 }
